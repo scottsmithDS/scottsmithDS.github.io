@@ -1,0 +1,7 @@
+Hello,
+
+I am not quite sure if this is needed, but I forgot to add it. Again sorry for the issues. 
+
+On thursday I had uploaded my repo coding because I knew the coding was correct however, I was having issues with is displaying. I was having similar issues on a personal project, and after some digging I realized that when I installed node.js for my personal project that I had installed it on my root level. I still don't fully understand the implications of this, however I really didn't understand how to fix it. So, I decided to wipe clean my disk. I backed up all the files then deleted the disk. When I created the new disk I first installed everything correctly. Tehn git cloned the repo I had done for this project. Issues were sitll there and I couldn't believe it. Then I realized that these files were going based off of the old root. Maybe? Idk. Still learning. So i deleted the rep and created a new one. Copy and pasted the files to the new repo locally and pushed it. Boom it worked. Today because of issues with submit time, Whitney said that only one link worked but I guess she has both? even though I deleted the previous one. So I tried making them align. But realized that wasn't going to work. So just added this readme and pushed to repo that aligns with Saturday's Url submission. the code for the most part on first submission was correct but it only included the first half since the second half wouldn't even work with the current root level in terms of changes.
+
+Idk. This sucked. sorry guys.
